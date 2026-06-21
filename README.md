@@ -1,4 +1,4 @@
-# Vishal — Developer Portfolio
+# Vishal — Portfolio
 
 A single-page, dark-themed developer portfolio built with React (Vite), Tailwind CSS v4, and Framer Motion.
 
